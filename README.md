@@ -6,7 +6,7 @@ ShotShuttle is a lightweight background agent that periodically captures desktop
 
 
 
-
+## Directions
 
 
 ### 1. Prepare a directory with your script and making archive:
