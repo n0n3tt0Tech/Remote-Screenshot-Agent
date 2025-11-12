@@ -4,7 +4,8 @@ ShotShuttle is a lightweight background agent that periodically captures desktop
 
 1. We need to obfuscate the the original bash scrip 'payload.sh'. For this purpose, we will make the archive 'payload_obf.sh'. You must have the tool 'Makeself' installed to make the archive.
 
-Prepare a directory with your script:
+### Prepare a directory with your script:
+```bash
 mkdir -p ~/test_obf
 cp /path/to/payload.sh ~/test_obf/
 makeself ~/test_obf payload_obf.sh "My test archive" ./payload.sh
