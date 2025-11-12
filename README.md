@@ -56,6 +56,6 @@ chmod +x filename
 Run the 'auto_command' file.
 
 ```bash
-./auto_command
+./auto_command.sh
 ```
 
